@@ -1,6 +1,6 @@
 
 
-![](p1.gif)
+![game](https://miro.medium.com/max/1600/1*dQzFEaAHwxouaImAuUd3EQ.gif)
 
 # Project 1
 
