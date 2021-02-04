@@ -1,8 +1,7 @@
-
+# Project 1 - Building A Browser Game
 
 ![game](https://miro.medium.com/max/1600/1*dQzFEaAHwxouaImAuUd3EQ.gif)
 
-# Project 1
 
 ## Task
 
