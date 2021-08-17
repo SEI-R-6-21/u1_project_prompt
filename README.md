@@ -55,3 +55,9 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Use a public API with your game
 - Add a dark mode feature
 - Use object oriented programming to create reusable elements
+
+## A Note on Plagiarism
+  
+- Plagiarism is a serious offense and grounds for immediate withdrawal.
+- You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is <b><i>not acceptable to copy</i></b> another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.
+- Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to <b><i>ask your instructor</i></b>. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.
