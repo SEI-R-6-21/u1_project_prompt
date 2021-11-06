@@ -34,7 +34,7 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Your code should be properly indented, spaced, and within code blocks. **DO NOT** leave in commented out code that was left unused (bad practice). Comments, if in your code at all, should be in your code to describe what your functions are doing.
 - Display proper use of global variables and function parameters (function scopes)
 - Use camelCase for JavaScript variables
-- Be deployed on [Surge](https://surge.sh/) (We will cover this on Thursday of project week)
+- Be deployed on [Surge](https://surge.sh/) (We will cover this on Monday of project week)
 
 **Project _Completed_ Due Date:** 08/13/21 by 2:30pm EST
 
