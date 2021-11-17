@@ -45,16 +45,12 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Commit early (day one) and often (everytime you implement a new feature)
 - Implement _all project requirements first_ before moving on to post-mvp features
 - Make it look professional (this is for you to showcase - it could land you a job)
-- Use Google Fonts in your project. To do this, find a font on https://fonts.google.com/ , select the font, go to the *embed* link, and put its HTML tag in your HTML document's `<head>` tag, *above* your link to your CSS. You will then need to use its CSS Rule to apply it in your CSS file. Example:
-- ```html
-    <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./style.css">
-  ```
 
 ## Post-MVP Ideas
 - Use a public API with your game
 - Add a dark mode feature
 - Use object oriented programming to create reusable elements
+- Use Google Fonts in your project. To do this, find a font on https://fonts.google.com/ , select the font, go to the *embed* link, and put its HTML tag in your HTML document's `<head>` tag, *above* your link to your CSS. You will then need to use its CSS Rule to apply it in your CSS file.
 
 ## A Note on Plagiarism
   
