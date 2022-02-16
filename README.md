@@ -20,7 +20,7 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Detailed README.md (Project Title, Description, How to Get Started, Credits)
 - A Trello Board detailing the plan and progress of your project (linked on your ReadMe)
 
-**Project _Approval_ Due Date:** 3/8/22 by 9:00AM EST
+### **Project _Approval_ Due Date:** 3/8/22 by 9:00AM EST
 
 
 ## Project Requirements (MVP)
@@ -36,7 +36,7 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Use camelCase for JavaScript variables
 - Be deployed on [Surge](https://surge.sh/) (We will cover this on Monday of project week)
 
-**Project _Completed_ Due Date:** 3/12/22 by 1:30PM EST
+### **Project _Completed_ Due Date:** 3/12/22 by 1:30PM EST
 
 ## Tips
 
