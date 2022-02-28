@@ -9,6 +9,8 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 
 **Ideas**:
 - Blackjack
+- Memory Flash Cards
+- Trivia
 - Connect Four
 - Battleship
 - Dice Movement Game (Candyland, Sorry, etc.)
