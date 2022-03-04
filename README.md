@@ -38,7 +38,7 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Use camelCase for JavaScript variables
 - Be deployed on [Surge](https://surge.sh/) (We will cover this on Monday of project week)
 
-### **Project _Completed_ Due Date:** 3/12/22 by 1:30PM EST
+### **Project _Completed_ Due Date:** 3/11/22 by 1:30PM EST
 
 ## Tips
 
