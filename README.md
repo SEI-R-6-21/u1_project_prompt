@@ -50,7 +50,7 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 ## Post-MVP Ideas
 - Add a dark mode feature
 - Use object oriented programming to create reusable elements
-- Use Google Fonts in your project. To do this, find a font on https://fonts.google.com/ , select the font, go to the *embed* link, and put its HTML tag in your HTML document's `<head>` tag, *above* your link to your CSS. You will then need to use its CSS Rule to apply it in your CSS file.
+- Use Google Fonts in your project. To do this, find a font on [Google Fonts](https://fonts.google.com/) , select the font, go to the *embed* link, and put its HTML tag in your HTML document's `<head>` tag, *above* your link to your CSS. You will then need to use its CSS Rule to apply it in your CSS file.
 
 ## A Note on Plagiarism
   
