@@ -1,6 +1,19 @@
 # Project 1 - Building A Browser Game
 
 ![game](https://miro.medium.com/max/1600/1*dQzFEaAHwxouaImAuUd3EQ.gif)
+## ABOUT ##
+- I plan on making a minesweeper game 
+## CONCEPT OF THE GAME ##
+-  a puzzle game which the player will select a cell in a square grid continuously. Each cell hides a bomb or a value which displays the number of bombs in it’s neighboring cells. Just to make it clear, neighboring cells are defined as adjacent horizontally, vertically or diagonally.
+## HOW IM GOING TO GET STARTED ##
+first thing im going to do is make the cells where the bombs and neighbor numbers will be placed, then im going to add a bomb that is randomly placed for future refference.
+then im going to make it so multiple bombs can be inputed and randomized dependind on the size of the grid, then im going to create the actual game functions such as checkWin function and makeMap functions.
+
+## TRELLO LINK ##
+https://trello.com/b/MdxY05le/first-game
+##### #### #### ### ### ### ## #### #####
+
+
 
 
 ## Task
@@ -57,3 +70,4 @@ Your task is to build a browser-based game utilizing HTML/CSS/JavaScript.
 - Plagiarism is a serious offense and grounds for immediate withdrawal.
 - You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is <b><i>not acceptable to copy</i></b> another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.
 - Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to <b><i>ask your instructor</i></b>. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.
+
