@@ -1,0 +1,189 @@
+@keyframes fadeIn {
+  0% { opacity: 0;}
+  100% { opacity: 1;}
+  }
+
+#main {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  background-color: black;
+  animation: fadeIn ease 5s;
+}
+#introBody {
+  margin: 0;
+  background-color: black;
+}
+#introContainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#titleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 1%;
+  background-color: rgb(0, 132, 255);
+  border: 3px solid blue
+}
+#getStarted {
+  margin-top: 100px;
+  list-style: none;
+  color: white;
+}
+#howTo {
+  font-size: 20px;
+}
+
+.howToList {
+  animation: fadeIn ease 5s
+}
+#introTitle {
+  margin-top: 240px;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  color: white;
+}
+
+#introTitle:hover {
+  transform: scale(2);
+  transition: all 500ms 200ms;
+}
+
+#gameBoard, #header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+  
+}
+
+#yourWordWas {
+  height: 60px;
+}
+
+#header {
+  margin-bottom: 50px;
+}
+
+#gameTitle {
+  color: white;
+  font-size: 60px;
+  border-radius: 20px;
+  border: 3px solid white;
+  background-color: rgb(0, 132, 255);
+  padding: 10px;
+  margin: 10px 0px 100px 0px;
+}
+#categoryDisplay {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  border: 3px solid black;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  background-color:n rgb(0, 132, 255);
+}
+#winLoseDisplay {
+  text-align: center;
+  font-size: 30px;
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(0, 132, 255);
+  border: 3px solid white;
+  width: 95vw;
+  
+}
+#categoryBar {
+  display: flex;
+  justify-content: space-between;
+}
+.categoryBtns {
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#category {
+  margin-right: 50px;
+  border-radius: 10px;
+}
+#startBtn {
+font-size: 20px;
+border-radius: 20px;
+margin-top: 100px;
+padding: 20px;
+}
+
+#mistakeFish {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 3px solid white;
+  justify-content: center;
+  background-color: rgb(0, 132, 255);
+  width: 95vw;
+  height: 200px;
+}
+
+#shark {
+  font-size: 100px;
+  display: inline;
+}
+.fish {
+  font-size: 50px;
+}
+
+.letterBtns {
+  padding: 10px;
+  font-size: 15px;
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+}
+
+#letterBoard {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#guesses {
+  color: white;
+  font-size: 20px;
+}
+
+#yourWordWas {
+  color: white;
+}
+
+#fish1 {
+  display:inline;
+}
+#fish2 {
+  display:inline;
+}
+#fish3 {
+  display:inline;
+}
+#fish4 {
+  display:inline;
+}
+#fish5 {
+  display:inline;
+}
+#guesses {
+  margin-right: 30px;
+}
+#sharkBite {
+  display: block;
+}
+#yourWordWas {
+  font-size: 30px;
+}
